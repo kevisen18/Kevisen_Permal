@@ -1,3 +1,4 @@
+<?php include "email.php"; ?>
 <!DOCTYPE html>
 <html lang="EN">
 
@@ -67,6 +68,7 @@
                                     <a href="https://ne-np.facebook.com/people/Kevisen-Permal/pfbid036ryK2v7zigE727MrhRb1r1x5t3Pw81Kyr82MzRmivbh1whaEX3Rkv6CXEkWZqtLGl/" target="_blank"><i class="fa fa-facebook fa-lg"></i></a>
                                     <a href="https://linkedin.com/in/kevisen-permal" target="_blank"><i class="fa fa-linkedin fa-lg"></i></a>
                                     <a href="https://www.instagram.com/sensei_sick/" target="_blank"><i class="fa fa-instagram fa-lg"></i></a>
+                                    <a href="tel:+23059713036"><i class="fa fa-phone-square fa-lg"></i></a>
                                 </div>
                                 <span id="menu-btn"></span>
                             </div>
